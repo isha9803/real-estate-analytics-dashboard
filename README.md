@@ -4,7 +4,7 @@ An interactive **Real Estate Analytics Dashboard** developed using **Microsoft E
 
 ## 📊 Dashboard Preview
 
-![Real Estate Dashboard](real estate dashboard ss.png)
+![Real Estate Dashboard](real%20estate%20dashboard%20ss.png)
 
 ## 🛠️ Tools & Technologies
 
